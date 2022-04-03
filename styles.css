@@ -1,0 +1,179 @@
+html, body {
+  height: 100%;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.top, .bottom {
+  width: 100%;
+  height: 50%;
+}
+.bottom-left {
+  height: 200%;
+  width: 42%;
+}
+.bottom {
+  display: flex;
+}
+.circle-image{
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 366px;
+  height: 366px;
+margin-top: 95px;
+}
+.bottom-left {
+  background-color: #4AA1B2;
+  height: 1
+}
+.circle {
+  border-radius: 2px;
+  background-color: solid red;
+}
+.main1, .main2, .main3, .main4, .main5, .main6 {
+  height:40px;
+  width:40px;
+  border-radius:60%;
+  background:#6D9DC1;
+  text-align:center;
+  font-size:20px;
+  color: #fdfdfd;
+
+  }
+  .main1 {
+    position: relative;
+    left: 60px;
+    margin-top: 51px;
+  }
+  .main2 {
+    position: relative;
+    left: 60px;
+    margin-top: 31px;
+  }
+  .main3 {
+    position: relative;
+    left: 61px;
+    margin-top: 32px;
+  }
+  .main4 {
+    position: relative;
+    left: 60px;
+    margin-top: 28px;
+  }
+  .main5 {
+    position: relative;
+    left: 60px;
+    margin-top: 50px;
+  }
+  .main6 {
+    position: relative;
+    left: 60px;
+    margin-top: 53px;
+  }
+  .kop1 {
+    position: relative;
+    left: 130px;
+    top: 0px;
+    }
+.kop2 {
+      position: relative;
+      right:  20px;
+      padding-top: 0px;
+    }
+.kop3 {
+      position: relative;
+      right: 20px;
+      padding-top: 0px;
+    }
+.kop4 {
+      position: relative;
+      right: 20px;
+      padding-top: 0px;
+    }
+.kop5 {
+  position: absolute;
+  right: 515px;
+  padding-top: 0px;
+}
+.kop6 {
+  position: absolute;
+  left: 770px;
+  top: 640px;
+}
+.jopa1 {
+  position: absolute;
+  top: 45px;
+  right: 643px;
+  font-style: Decon Struct;
+}
+.jopa2 {
+    position: absolute;
+    top: 56px;
+    margin-left: 3%;
+    right: 655px;
+    padding-top: 100px;
+}
+.jopa3 {
+  position: absolute;
+  top: 85px;
+  margin-left: 3%;
+  left: 722px;
+  padding-top: 180px;
+}
+.jopa4 {
+  position: absolute;
+  top: 63px;
+  margin-left: 3%;
+  left: 720px;
+  padding-top: 310px;
+}
+.jopa5 {
+  position: absolute;
+  top: 482px;
+  left: 770px;
+}
+.jopa6 {
+  position: absolute;
+  top: 590px;
+  left: 770px;
+}
+.bottom-right {
+  background-color: #fefefe ;
+}
+.apple1 {
+  position: relative;
+  top: 8px;
+}
+.apple2 {
+  position: relative;
+  top: 8px;
+}
+.apple3 {
+  position: relative;
+  top: 8px;
+}
+.apple4 {
+  position: relative;
+  top: 8px;
+}
+.apple5 {
+  position: relative;
+  top: 8px;
+}
+.apple6 {
+  position: relative;
+  top: 8px;
+}
+.name1 {
+  position: relative;
+  margin-top: 25px;
+}
+.name2{
+  position: relative;
+  left: 15px;
+  margin-top: 10px;
+}
